@@ -1,5 +1,5 @@
 # Spirit Website
 
-This is the websites code for SPirit Discord bot.
+This is the websites code for Spirit Discord bot.
 
 https://spiritbot.net/invite
